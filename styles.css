@@ -55,20 +55,20 @@ h1, h2, h3, h4, p {
     height: 400px;
     border: 6px solid white;
     border-radius: 10px;
-    background-image: url("images/spør.gif");
+    background-image: url("spør.gif");
     background-size: cover;
 }
 
 #gift-img-happy:hover {
-    background-image: url("images/klatre.gif");
+    background-image: url("klatre.gif");
 }
 
 #gift-img-hot:hover {
-    background-image: url("images/fotball.gif");
+    background-image: url("fotball.gif");
 }
 
 #gift-img-genius:hover {
-    background-image: url("images/parkour.gif");
+    background-image: url("parkour.gif");
 }
 
 #gift-img-badass:hover {
@@ -76,7 +76,7 @@ h1, h2, h3, h4, p {
 }
 
 #gift-img-cheers:hover {
-    background-image: url("images/brain.gif");
+    background-image: url("brain.gif");
 }
 
 #footer {
